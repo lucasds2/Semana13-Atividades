@@ -1,0 +1,1 @@
+# Precisa do pacote http-server do node para funcionar perfeitamente.
